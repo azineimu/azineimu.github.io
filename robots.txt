@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azineimu.github.io/WqF/sitemap_index.txt
+Sitemap: https://azineimu.github.io/lAn/sitemap_index.txt
+Sitemap: https://azineimu.github.io/lMh/sitemap_index.txt
+Sitemap: https://azineimu.github.io/rHB/sitemap_index.txt
